@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Weather App
+
+My first app using Typescript and Redux.
+Uses a simple weather API to get current weather data about any city.
 
 ## Available Scripts
 
